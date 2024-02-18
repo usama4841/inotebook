@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iNotebook/static/css/main.813488de.css",
-    "main.js": "/iNotebook/static/js/main.ed6d5882.js",
-    "index.html": "/iNotebook/index.html",
-    "main.813488de.css.map": "/iNotebook/static/css/main.813488de.css.map",
-    "main.ed6d5882.js.map": "/iNotebook/static/js/main.ed6d5882.js.map"
+    "main.css": "/inotebook/static/css/main.813488de.css",
+    "main.js": "/inotebook/static/js/main.ed6d5882.js",
+    "index.html": "/inotebook/index.html",
+    "main.813488de.css.map": "/inotebook/static/css/main.813488de.css.map",
+    "main.ed6d5882.js.map": "/inotebook/static/js/main.ed6d5882.js.map"
   },
   "entrypoints": [
     "static/css/main.813488de.css",
